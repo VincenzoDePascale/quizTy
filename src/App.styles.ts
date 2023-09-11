@@ -1,6 +1,6 @@
 import styled, {createGlobalStyle} from 'styled-components';
 
-import BGImage from './imgs/quiz.png'
+//import BGImage from './imgs/quiz.png'
 
 export const GlobalStyle = createGlobalStyle`
 html {
